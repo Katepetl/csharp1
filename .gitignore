@@ -1,9 +1,7 @@
-/csproj
-web1.csproj
-bin/
-obj/
-Z6/Z6.csproj
-Z8.csproj
+/bin
+/obj
+
+
 
 
 
