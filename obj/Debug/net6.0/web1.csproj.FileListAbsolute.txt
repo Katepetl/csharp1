@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\web1\bin\Debug\net6.0\web1.exe
+C:\Users\Samsung\Desktop\web1\bin\Debug\net6.0\web1.deps.json
+C:\Users\Samsung\Desktop\web1\bin\Debug\net6.0\web1.runtimeconfig.json
+C:\Users\Samsung\Desktop\web1\bin\Debug\net6.0\web1.dll
+C:\Users\Samsung\Desktop\web1\bin\Debug\net6.0\web1.pdb
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.dll
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\refint\web1.dll
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.pdb
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\web1.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\web1\obj\Debug\net6.0\ref\web1.dll
